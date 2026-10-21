@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.superpowers/
+public/engine/
+tests/fixtures/user-games.pgn
+.DS_Store
+dist-ssr
+*.local
+*.log
+.vscode/*
+!.vscode/extensions.json
+.idea

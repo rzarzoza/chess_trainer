@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.03.14"]
+[Round "-"]
+[White "fixture_user"]
+[Black "opp_rapid"]
+[Result "1-0"]
+[Link "https://www.chess.com/game/live/100000001"]
+[TimeControl "600"]
+[ECO "C54"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Giuoco-Pianissimo-Variation"]
+[Termination "fixture_user won by resignation"]
+
+1. e4 {[%clk 0:09:59.0]} 1... e5 {[%clk 0:09:54.4]} 2. Nf3 {[%clk 0:09:48.8]} 2... Nc6 {[%clk 0:09:51.1]} 3. Bc4 {[%clk 0:09:40.9]} 3... Bc5 {[%clk 0:09:50.1]} 4. c3 {[%clk 0:09:35.3]} 4... Nf6 {[%clk 0:09:39.9]} 5. d3 {[%clk 0:09:32.0]} 5... d6 {[%clk 0:09:32.0]} 6. O-O {[%clk 0:09:31.0]} 6... O-O {[%clk 0:09:26.4]} 7. Re1 {[%clk 0:09:20.8]} 7... a6 {[%clk 0:09:23.1]} 8. Bb3 {[%clk 0:09:12.9]} 8... Ba7 {[%clk 0:09:22.1]} 9. Nbd2 {[%clk 0:09:07.3]} 9... Re8 {[%clk 0:09:11.9]} 10. Nf1 {[%clk 0:09:04.0]} 10... h6 {[%clk 0:09:04.0]} 11. Ng3 {[%clk 0:09:03.0]} 11... Be6 {[%clk 0:08:58.4]} 12. Bxe6 {[%clk 0:08:52.8]} 12... Rxe6 {[%clk 0:08:55.1]} 13. h3 {[%clk 0:08:44.9]} 13... Qd7 {[%clk 0:08:54.1]} 14. Nh2 {[%clk 0:08:39.3]} 14... Rae8 {[%clk 0:08:43.9]} 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.03.15"]
+[Round "-"]
+[White "opp_blitz"]
+[Black "fixture_user"]
+[Result "0-1"]
+[Link "https://www.chess.com/game/live/100000002"]
+[TimeControl "180+2"]
+[ECO "B90"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Najdorf-Variation-6.Be3-e5"]
+[Termination "fixture_user won on time"]
+
+1. e4 {[%clk 0:03:01.0]} 1... c5 {[%clk 0:02:56.4]} 2. Nf3 {[%clk 0:02:52.8]} 2... d6 {[%clk 0:02:55.1]} 3. d4 {[%clk 0:02:46.9]} 3... cxd4 {[%clk 0:02:56.1]} 4. Nxd4 {[%clk 0:02:43.3]} 4... Nf6 {[%clk 0:02:47.9]} 5. Nc3 {[%clk 0:02:42.0]} 5... a6 {[%clk 0:02:42.0]} 6. Be3 {[%clk 0:02:43.0]} 6... e5 {[%clk 0:02:38.4]} 7. Nb3 {[%clk 0:02:34.8]} 7... Be6 {[%clk 0:02:37.1]} 8. f3 {[%clk 0:02:28.9]} 8... Be7 {[%clk 0:02:38.1]} 9. Qd2 {[%clk 0:02:25.3]} 9... O-O {[%clk 0:02:29.9]} 10. O-O-O {[%clk 0:02:24.0]} 10... Nbd7 {[%clk 0:02:24.0]} 11. g4 {[%clk 0:02:25.0]} 11... b5 {[%clk 0:02:20.4]} 12. g5 {[%clk 0:02:16.8]} 12... Nh5 {[%clk 0:02:19.1]} 13. Kb1 {[%clk 0:02:10.9]} 13... Rc8 {[%clk 0:02:20.1]} 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.03.16"]
+[Round "-"]
+[White "fixture_user"]
+[Black "opp_bullet"]
+[Result "1-0"]
+[Link "https://www.chess.com/game/live/100000003"]
+[TimeControl "60"]
+[ECO "D02"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-London-System"]
+[Termination "fixture_user won on time"]
+
+1. d4 {[%clk 0:00:59.0]} 1... d5 {[%clk 0:00:58.2]} 2. Bf4 {[%clk 0:00:56.4]} 2... Nf6 {[%clk 0:00:56.8]} 3. e3 {[%clk 0:00:54.2]} 3... c5 {[%clk 0:00:55.8]} 4. c3 {[%clk 0:00:52.4]} 4... Nc6 {[%clk 0:00:53.2]} 5. Nd2 {[%clk 0:00:51.0]} 5... e6 {[%clk 0:00:51.0]} 6. Ngf3 {[%clk 0:00:50.0]} 6... Bd6 {[%clk 0:00:49.2]} 7. Bg3 {[%clk 0:00:47.4]} 7... O-O {[%clk 0:00:47.8]} 8. Bd3 {[%clk 0:00:45.2]} 8... b6 {[%clk 0:00:46.8]} 9. Ne5 {[%clk 0:00:43.4]} 9... Bb7 {[%clk 0:00:44.2]} 10. f4 {[%clk 0:00:42.0]} 10... Qc7 {[%clk 0:00:42.0]} 1-0

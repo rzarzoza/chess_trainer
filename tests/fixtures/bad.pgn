@@ -1,0 +1,46 @@
+[Event "Live Chess - Chess960"]
+[Site "Chess.com"]
+[Date "2026.03.17"]
+[White "fixture_user"]
+[Black "opp_960"]
+[Result "1-0"]
+[Variant "Chess960"]
+[SetUp "1"]
+[FEN "bbqnnrkr/pppppppp/8/8/8/8/PPPPPPPP/BBQNNRKR w HFhf - 0 1"]
+[TimeControl "600"]
+[Termination "fixture_user won by resignation"]
+
+1. e4 {[%clk 0:09:58.0]} 1... e5 {[%clk 0:09:57.0]} 2. Ng3 {[%clk 0:09:55.0]} 2... Ng6 {[%clk 0:09:54.0]} 3. Nf3 {[%clk 0:09:50.0]} 3... Nf6 {[%clk 0:09:49.0]} 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.03.18"]
+[Round "-"]
+[White "opp_daily"]
+[Black "fixture_user"]
+[Result "1/2-1/2"]
+[Link "https://www.chess.com/game/daily/100000004"]
+[TimeControl "1/86400"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game"]
+[Termination "Game drawn by agreement"]
+
+1. e4 1... e5 2. Nf3 2... Nc6 3. Bc4 3... Bc5 4. c3 4... Nf6 5. d3 5... d6 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.03.19"]
+[Round "-"]
+[White "fixture_user"]
+[Black "opp_abort"]
+[Result "1-0"]
+[Link "https://www.chess.com/game/live/100000005"]
+[TimeControl "300"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening"]
+[Termination "opp_abort resigned"]
+
+1. e4 {[%clk 0:04:59.0]} 1... e5 {[%clk 0:04:54.4]} 2. Qh5 {[%clk 0:04:48.8]} 2... Nc6 {[%clk 0:04:51.1]} 1-0
+
+this is not a PGN file
+it is just some random text, 1. nonsense
